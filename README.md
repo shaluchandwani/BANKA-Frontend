@@ -1,7 +1,7 @@
 # BANKA
 
  [![Build Status](https://api.travis-ci.org/shaluchandwani/BANKA-Frontend.svg?branch=develop)](https://travis-ci.org/shaluchandwani/BANKA-Frontend)
-[![Coverage Status](https://coveralls.io/repos/github/shaluchandwani/BANKA-Frontend/badge.svg)](https://coveralls.io/github/shaluchandwani/BANKA-Frontend)
+
 
 Svas - Banka challenge - A core Banking Solution Product
 
