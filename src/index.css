@@ -1,0 +1,17 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+html, body{
+font-size: 16px;
+}
+body {
+  max-width: 100%;
+  margin: 0 auto;
+  color: blue;
+}
+
+nav {
+  padding: 20px 0 20px 0;
+}
